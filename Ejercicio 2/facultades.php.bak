@@ -1,0 +1,21 @@
+<?PHP
+if ($_REQUEST['cod']==1){
+	echo "";
+	
+}
+if ($_REQUEST['cod']==2){
+	echo "";
+}
+if ($_REQUEST['cod']==3){
+	echo "";
+}
+if ($_REQUEST['cod']==4){
+	echo "";
+}
+if ($_REQUEST['cod']==5){
+	echo "";
+}
+if ($_REQUEST['cod']==6){
+	echo "";
+}
+?>

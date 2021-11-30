@@ -1,0 +1,19 @@
+.producto {
+	width: 20%;
+	padding:10px;
+	background: yellow;
+}
+.detalle{
+	background: white;
+	font-family: Arial;
+}	
+
+#titulo{
+	font-family: Verdana;
+	text-align:center;
+}
+
+.titulo3{
+	font-family: Verdana;
+	text-align:center;
+}
